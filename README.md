@@ -1,5 +1,5 @@
 # silkconv
-This is a simple DockerFile to convert silk audio to other format: amr or the others.
+This is a simple DockerFile to convert `silk` audio to other format: `amr` or others.
 
 [中文文档](./README_cn.md)
 
