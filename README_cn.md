@@ -18,3 +18,6 @@ docker run --rm -v $PWD:/working silkconv:1.0.0  /working/demo.silk amr
 
 # Todos
 * as a http server
+
+# 参考
+[silk-v3-decoder](https://github.com/kn007/silk-v3-decoder)
